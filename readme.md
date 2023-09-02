@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL:](https://hunianad.github.io/QR-code-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-html-and-css-PbPkpug2_V)
+- [Live Site URL](https://hunianad.github.io/QR-code-component/)
 
 ## My process
 

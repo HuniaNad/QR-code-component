@@ -1,1 +1,1 @@
-### Testing
+### QR Code Component
